@@ -1,1 +1,7 @@
-
+ECS IS DEVELOPED USING JQUERY,JAVASCRIPT,BOOTSTRAP,HTML,CSS AND PYTHON(DJANGO FRAMEWORK) 
+-->IF SUIT MODULE IS MISSING TRY TO UPDATE  requirement.txt suit as suit--0.2.27.
+ --> ON PARENT DIRECTORY USING TERMINAL/COMMAND PROMPT::pip install -r requirement.txt
+ --> MIGRATE USING python3 manage.py migrate on directory where manage.py is present....
+ =============================================================================================================================================================
+ Any Queries:
+ contact: placementareer12@gmail.com or viswasmc238@gmail.com 
